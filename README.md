@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @riwajp
-- 👀 I’m interested in web development, data science and  AI.
-- 🌱 I’m currently learning React JS.
+- 🌱 I’m currently learning Web Scraping with Python.
 - 📫 How to reach me ...
 
 <!---
