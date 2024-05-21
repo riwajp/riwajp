@@ -9,7 +9,7 @@
 
 I´m Riwaj, a Computer Science student, currently exploring software development.
 
-<div style="margin-top:-10px" >
+<div >
 <br/>
   
 ## ⚡ GitHub Stats
@@ -52,7 +52,7 @@ I´m Riwaj, a Computer Science student, currently exploring software development
 &nbsp;
 <br/>
 <br/>
-
+<br/>
 <hr/>
 <div align="center">
  <i>"Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live." </i>
@@ -61,6 +61,6 @@ I´m Riwaj, a Computer Science student, currently exploring software development
    
    </div>
    <hr/>
-   <br/>
+
    
 </div>
